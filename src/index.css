@@ -1,0 +1,54 @@
+body {
+  margin: 0;
+  /* font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif; */
+  font-family: 'VT323', monospace;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.btn {
+  display: inline-block;
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  margin: 5px;
+  border-radius: 2px;
+  width: 200px;
+  height: 50px;
+  cursor: pointer;
+  text-decoration: none;
+  font-size: 18px;
+  font-family: inherit;
+}
+
+.twitter {
+  background: #08a0e9;
+  border-left: 10px solid #0677ac;
+}
+
+.discord {
+  background: #7289da;
+  border-left: 10px solid #5f71b4;
+}
+
+.sushiHead {
+  margin-bottom: -10px;
+  font-size: 100px;
+}
+
+.solHead {
+  margin-bottom: -10px;
+}
+
+.solana {
+  width: 100px;
+  height: 100px;
+  position: relative;
+}
